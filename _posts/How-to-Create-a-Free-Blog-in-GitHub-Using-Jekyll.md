@@ -1,9 +1,7 @@
 ---
 published: true
 ---
-## A New Post
-
-### Reference
+## Reference
 1. https://www.youtube.com/watch?v=-QA6HqZalBQ
 2. https://pages.github.com/
 
